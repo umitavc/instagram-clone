@@ -11,6 +11,6 @@ Bu proje, Flutter kullanarak Instagram'ın bir klonunu oluşturmayı amaçlamakt
 
 
 
-
+![Screenshot_1691154766](https://github.com/umitavc/instagram-clone/assets/62944836/297a18e0-dd3b-4760-8daa-2e698690f8f6)
 
 
